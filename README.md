@@ -22,7 +22,7 @@ sudo apt-get install texlive
 sudo apt-get install texlive-latex-extra
 ```
 
-## Convert tex to pdf on Ubuntu
+## Convert tex to pdf on Linux
 
 ```
 pdflatex huy_ho_resume.tex
