@@ -37,5 +37,5 @@ For [Window](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe
 ## Convert tex to pdf on Linux Terminal
 
 ```
-pdflatex huy_ho_resume.tex
+pdflatex yourname_resume.tex
 ```
