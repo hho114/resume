@@ -8,21 +8,33 @@ Inspiration from [Sourabh Bajaj](https://github.com/sb2nov/resume)
 
 Managing a resume on Google Docs was hard and changing any formatting was too difficult since it had to be applied in multiple places.
 
-## Required for convert tex to pdf on Linux
+## Getting Started
+
+- Rename huy_ho_resume.tex to yourname_resume.tex
+- Edit yourname_resume.tex base on your resume
+- Convert tex to pdf
+
+## Prerequisites
 
 - TexLive:
 
+For Linux:
 ```
 sudo apt-get install texlive
 ```
 
-- Texlive-latex-extra packages:
+Texlive-latex-extra packages:
 
 ```
 sudo apt-get install texlive-latex-extra
 ```
 
-## Convert tex to pdf on Linux
+For [Mac](https://tug.org/mactex/mactex-download.html)
+
+For [Window](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)
+
+
+## Convert tex to pdf on Linux Terminal
 
 ```
 pdflatex huy_ho_resume.tex
