@@ -39,3 +39,8 @@ For [Window](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe
 ```
 pdflatex yourname_resume.tex
 ```
+
+## Credit
+
+[Sourabh Bajaj](https://github.com/sb2nov/resume)
+
